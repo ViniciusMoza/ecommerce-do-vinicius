@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerce-do-vinicius/static/css/main.679b9869.css",
+    "main.js": "/ecommerce-do-vinicius/static/js/main.9a528ef6.js",
+    "index.html": "/ecommerce-do-vinicius/index.html",
+    "main.679b9869.css.map": "/ecommerce-do-vinicius/static/css/main.679b9869.css.map",
+    "main.9a528ef6.js.map": "/ecommerce-do-vinicius/static/js/main.9a528ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679b9869.css",
+    "static/js/main.9a528ef6.js"
+  ]
+}
