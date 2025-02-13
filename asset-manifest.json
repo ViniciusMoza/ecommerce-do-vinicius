@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ecommerce-do-vinicius/static/css/main.e8888aff.css",
+    "main.css": "/ecommerce-do-vinicius/static/css/main.c002ca97.css",
     "main.js": "/ecommerce-do-vinicius/static/js/main.9fd4c249.js",
     "index.html": "/ecommerce-do-vinicius/index.html",
-    "main.e8888aff.css.map": "/ecommerce-do-vinicius/static/css/main.e8888aff.css.map",
+    "main.c002ca97.css.map": "/ecommerce-do-vinicius/static/css/main.c002ca97.css.map",
     "main.9fd4c249.js.map": "/ecommerce-do-vinicius/static/js/main.9fd4c249.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8888aff.css",
+    "static/css/main.c002ca97.css",
     "static/js/main.9fd4c249.js"
   ]
 }
